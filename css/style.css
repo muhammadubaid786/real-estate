@@ -1,0 +1,115 @@
+.home-nav-2-wrapper .navbar .navbar-nav a:hover {
+    background-color: #7DBA1F;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.home-footer-wrapper {
+    background-color: #222222;
+    color: #707070;
+}
+
+.home-footer-wrapper a {
+    text-decoration: none;
+    color: #707070;
+}
+
+.home-footer-wrapper p {
+    font-size: 14px;
+}
+
+.footer .col img:hover {
+    background-color: #2db2be;
+    z-index: 2222e43532634643634;
+}
+
+.home-last a {
+
+    color: #707070;
+}
+
+.home-last a:hover {
+
+    color: #707070;
+}
+
+/******** about **********/
+
+
+.about-carousel-inner .nav a {
+    color: white;
+}
+
+.navbar {
+    justify-content: initial;
+}
+
+.about-business-tools-wrapper .col-md-6 .navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.about-business-tools-wrapper .tab-content .col-md-3 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.about-business-tools-wrapper .tab-content ul li button {
+    color: black !important;
+}
+
+/*********** service ***********/
+.service-product-wrapper .row .col-md-4 .card svg:hover {
+    color: #7DBA1F;
+}
+
+.service-product-wrapper .row .col-md-4 .card {
+    margin-bottom: 50px;
+}
+
+.service-product-wrapper .row .col-md-4 .card:hover {
+    border-bottom: 4px #7DBA1F solid;
+    margin-bottom: 47px;
+}
+
+.service-promotion-wrapper .row .col-md-4 .card svg:hover {
+    color: #7DBA1F;
+}
+
+.service-promotion-wrapper .row .col-md-4 .card img:hover {
+    color: #7DBA1F;
+}
+/************* index *****************/
+
+.index-business-inner .card:hover{
+    margin-bottom: 50px;
+}
+.index-business-inner .card:hover{
+    border-bottom: 2px #7DBA1F solid;
+    margin-bottom: 0px;
+}
+
+
+
+/************* contact *****************/
+
+
+.contact-product-inner .card:hover{
+    margin-bottom: 50px;
+}
+
+.contact-product-inner .card:hover{
+    border-bottom: 2px #7DBA1F solid;
+    margin-bottom: 0px;
+}
